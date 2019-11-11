@@ -1,0 +1,3 @@
+Hola chaval, esto es un archivo de texto creado con el Vim desde la consola.
+Veremos como se comportan los saltos de línea en Windows. 
+
